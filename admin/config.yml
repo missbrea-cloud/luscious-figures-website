@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: missbrea-cloud/luscious-figures-website
   branch: main
 
 media_folder: "uploads"

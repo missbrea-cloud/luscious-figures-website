@@ -1,0 +1,74 @@
+{
+  "business": {
+    "name": "Luscious Figures",
+    "location": "Clarksville, Tennessee",
+    "phone": "931-614-7068",
+    "email": "lusciousfigures@gmail.com",
+    "instagram": "Luscious Figures",
+    "booking_url": "https://book.squareup.com/appointments/0tgtxa0sm9esu3/location/LVQ607CMC13Y8/services?buttonTextColor=ffffff&category_id=GQJ3YKTQRKGEBNOLJSWFXKIU&color=2e2e2e&locale=en&referrer=so",
+    "social_media": {
+      "Facebook": "Luscious Figures",
+      "Instagram": "Luscious Figures",
+      "Google": "Luscious Figures"
+    }
+  },
+  "hero": {
+    "eyebrow": "CLARKSVILLE, TENNESSEE",
+    "headline": "Confidence looks good on you.",
+    "subheadline": "Personalized, non-invasive body contouring designed around your goals \u2014 in a clean, comfortable, judgment-free space.",
+    "announcement": "NEW LOCATION COMING SOON"
+  },
+  "services": [
+    {
+      "name": "Laser Lipo",
+      "price": "from $65",
+      "description": "A non-invasive treatment used to support targeted body contouring and inch-loss goals."
+    },
+    {
+      "name": "Ultrasonic Cavitation",
+      "price": "from $75",
+      "description": "Focused contouring for areas such as the abdomen, waist, back, arms, and thighs."
+    },
+    {
+      "name": "Radio Frequency",
+      "price": "from $65",
+      "description": "A skin-focused treatment commonly used alongside contouring services for a smoother appearance."
+    },
+    {
+      "name": "Vacuum Therapy",
+      "price": "from $75",
+      "description": "Non-invasive sculpting designed to enhance shape and create a fuller, more lifted appearance."
+    },
+    {
+      "name": "Wood Therapy",
+      "price": "from $75",
+      "description": "Manual sculpting techniques incorporated into contouring plans to help define and shape."
+    },
+    {
+      "name": "Custom Combinations",
+      "price": "from $125",
+      "description": "Layer multiple modalities into one treatment based on your body goals and target areas."
+    }
+  ],
+  "packages": [
+    {
+      "name": "Starter Snatch",
+      "sessions": "3 SESSIONS",
+      "price": "$225",
+      "description": "Perfect for getting started with a focused treatment plan."
+    },
+    {
+      "name": "Waist Snatch",
+      "sessions": "6 SESSIONS",
+      "price": "$425",
+      "description": "Built for clients ready to stay consistent and work toward visible progress.",
+      "popular": true
+    },
+    {
+      "name": "Transformation",
+      "sessions": "9 SESSIONS",
+      "price": "$595",
+      "description": "A longer treatment plan for clients focused on a more complete contouring journey."
+    }
+  ]
+}
